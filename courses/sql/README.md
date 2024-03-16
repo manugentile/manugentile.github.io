@@ -4,4 +4,4 @@
 
 ## [Command Types](2_command-types/README.md)
 
-## [Operators](3_operators/sql-operators.md)
+## [Operators](3_operators/README.md)

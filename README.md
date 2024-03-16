@@ -1,3 +1,3 @@
-## Courses
+# Courses
 
-### [SQL Course](./courses/sql/README.md)
+## [SQL Course](./courses/sql/README.md)

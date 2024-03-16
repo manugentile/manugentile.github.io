@@ -6,7 +6,7 @@
 
 It's a programming language used for managing data kept in a RDBMS (**R**elational **D**ataBase **M**anagement **S**ystem).
 
-![](../../assets/img/sql_course_basic_001.png)
+![](../../../assets/img/sql_course_basic_001.png)
 
 Despite being an ANSI and ISO standard, each RDBMS has its own extension, Oracle has PL/SQL, PostgreSQL has PL/pgSQL, Microsoft has T-SQL, and so on.
 
@@ -16,13 +16,11 @@ Despite being an ANSI and ISO standard, each RDBMS has its own extension, Oracle
 
 DDL It's used for create and modify the DB structure and its objects.
 
-Commands are CREATE, DROP, ALTER, TRUNCATE and RENAME
+Commands are CREATE, DROP, ALTER, TRUNCATE and RENAME.
 
 ## Data Manipulation Language
 
-DML It's used inserting, updating and deleting data in a DB, so we have INSERT, UPDATE 
-
-and DELETE
+DML It's used inserting, updating and deleting data in a DB, so we have INSERT, UPDATE and DELETE.
 
 ## Data Control Language
 
@@ -32,7 +30,7 @@ Commands are GRANT and REVOKE
 
 ## Transaction Control Language
 
-TCL It's used for handling the transaction, its commands are COMMIT and ROLLBACK
+TCL It's used for handling the transaction, its commands are COMMIT and ROLLBACK.
 
 # Credits & Let’s connect
 

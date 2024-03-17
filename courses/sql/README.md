@@ -1,6 +1,7 @@
 # SQL Course
 
-## [SQL Basics](1_basics/sql-basics.md)
+## [Basics](1_basics/sql-basics.md)
 
 ## [Command Types](2_command-types/README.md)
 
+## [Operators](3_operators/sql-operators.md)

@@ -93,12 +93,9 @@ FROM dev@localhost;
 ```
 
 
-
-
-
-
-
 <hr>
+
+**Let’s connect**
 
 If you want to learn more about the topic, connect or send me a DM.
 

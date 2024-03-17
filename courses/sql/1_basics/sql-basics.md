@@ -32,7 +32,7 @@ Commands are GRANT and REVOKE
 
 TCL It's used for handling the transaction, its commands are COMMIT and ROLLBACK.
 
-# Credits & Let’s connect
+# Credits
 
 [Database icons created by Freepik - Flaticon ](https://www.flaticon.com/free-icons/database)
 
@@ -42,6 +42,8 @@ TCL It's used for handling the transaction, its commands are COMMIT and ROLLBACK
 
 
 <hr>
+
+**Let’s connect**
 
 If you want to learn more about the topic, connect or send me a DM.
 

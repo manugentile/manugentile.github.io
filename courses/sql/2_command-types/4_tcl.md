@@ -19,9 +19,9 @@ interact concurrently with a database.
 
 ## Commit
 
-It’s used for saving data permanently on database. 
+It's used for saving data permanently on database. 
 
-Once a transaction has been committed, it’s not possible to restore its previous state.
+Once a transaction has been committed, it's not possible to restore its previous state.
 
 <u>It only works on DML commands.</u>
 
@@ -31,7 +31,7 @@ COMMIT;
 
 ### Commit Example
 
-Let’s assume table employee is empty.
+Let's assume table employee is empty.
 
 We are going to insert a single row, then we persist data (commit)
 and close the session.
@@ -47,7 +47,7 @@ SELECT * FROM employee;
 ```
 
 ```sql
-INSERT INTO employee VALUES (1,’Manuel’, ‘Gentile’);
+INSERT INTO employee VALUES (1,'Manuel', ‘Gentile');
 ```
 
 ```sql
@@ -58,15 +58,15 @@ COMMIT;
 ```sql
 -- another user opens the session
 SELECT * FROM employee;
--- 1 record found (1,’Manuel’, ‘Gentile’)
+-- 1 record found (1,'Manuel', ‘Gentile')
 ```
 
 
 ## Rollback
 
-It’s used for reverting data not persisted on database by a transaction.
+It's used for reverting data not persisted on database by a transaction.
 
-Once a transaction has been rollbacked, it’s not possible to restore its previous state.
+Once a transaction has been rollbacked, it's not possible to restore its previous state.
 
 <u>It only works on DML commands.</u>
 
@@ -76,7 +76,7 @@ ROLLBACK;
 
 ### Rollback Example
 
-Let’s assume table employee is empty.
+Let's assume table employee is empty.
 
 We are going to insert a single row, then we rollback the transaction data and close the session.
 
@@ -91,7 +91,7 @@ SELECT * FROM employee;
 ```
 
 ```sql
-INSERT INTO employee VALUES (1,’Manuel’, ‘Gentile’);
+INSERT INTO employee VALUES (1,'Manuel', 'Gentile');
 ```
 
 ```sql

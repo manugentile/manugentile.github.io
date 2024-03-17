@@ -1,6 +1,6 @@
 ﻿# Data Manipulation Language
 
-It's used inserting, updating and deleting data in a DB, so we have INSERT, UPDATE and DELETE.
+It's used inserting, updating and deleting data in a DB, so we have `INSERT`, `UPDATE` and `DELETE`.
 
 Before digging into DML commands, let's introduce the most used statement :
 ```sql
@@ -16,18 +16,15 @@ SELECT * FROM <tableName> WHERE 1=1;
 SELECT * FROM <tableName> WHERE 1=1 ORDER BY <columnName>;
 ```
 
-SELECT - clause to extract data from table(s)
+`SELECT` - clause to extract data from table(s)
 
-&ast; - (star) indicates all columns from table(s), otherwise we must specify
-    column(s) we want to extract
+`*` (star) - indicates all columns from table(s), otherwise we must specify column(s) we want to extract
 
-FROM - clause to retrieve row(s) from the referenced table(s)
+`FROM` - clause to retrieve row(s) from the referenced table(s)
 
-WHERE - clause to filter record(s), it's optional and could have boolean
-    operators like AND, OR, IN, LIKE, NOT, etc
+`WHERE` - clause to filter record(s), it's optional and could have boolean operators like `AND`, `OR`, `IN`, `LIKE`, `NOT`, etc
 
-ORDER BY - clause to order column(s), it's optional
-
+`ORDER BY` - clause to order column(s), it's optional
 
 ## Insert
 
@@ -51,12 +48,11 @@ INSERT INTO <tableName> (<columns>) SELECT <columns> FROM <anotherTableName>;
 ### Insert Example
 
 ```sql
-INSERT INTO employee (ID, FIRST_NAME, LAST_NAME)
-VALUES (1,'Manuel','Gentile');
+INSERT INTO employee (ID, FIRST_NAME, LAST_NAME) VALUES (1,'Manuel','Gentile');
 ```
 
 ```sql
-INSERT INTO employee VALUES (2,'John,'Doe);
+INSERT INTO employee VALUES (2,'John','Doe');
 ```
 
 ```sql

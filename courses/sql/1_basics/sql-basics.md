@@ -1,4 +1,4 @@
-﻿# What's SQL and what’s used for?
+﻿# What's SQL and what's used for?
 
 
 
@@ -16,21 +16,21 @@ Despite being an ANSI and ISO standard, each RDBMS has its own extension, Oracle
 
 DDL It's used for create and modify the DB structure and its objects.
 
-Commands are CREATE, DROP, ALTER, TRUNCATE and RENAME.
+Commands are `CREATE`, `DROP`, `ALTER`, `TRUNCATE` and `RENAME`.
 
 ## Data Manipulation Language
 
-DML It's used inserting, updating and deleting data in a DB, so we have INSERT, UPDATE and DELETE.
+DML It's used inserting, updating and deleting data in a DB, so we have `INSERT`, `UPDATE` and `DELETE`.
 
 ## Data Control Language
 
 DCL It's used for access the stored data.
 
-Commands are GRANT and REVOKE
+Commands are `GRANT` and `REVOKE`
 
 ## Transaction Control Language
 
-TCL It's used for handling the transaction, its commands are COMMIT and ROLLBACK.
+TCL It's used for handling the transaction, its commands are `COMMIT` and `ROLLBACK`.
 
 # Credits
 

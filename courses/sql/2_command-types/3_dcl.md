@@ -6,7 +6,7 @@ Commands are GRANT and REVOKE.
 
 ## Grant
 
-It’s used to provide access or privileges on the database objects
+It's used to provide access or privileges on the database objects
 to the users.
 
 ```sql
@@ -18,7 +18,7 @@ TO {<userName> | <roleName>};
 
 ## Revoke
 
-It’s used to revoke access or privileges on the database objects to
+It's used to revoke access or privileges on the database objects to
 the users.
 
 ```sql

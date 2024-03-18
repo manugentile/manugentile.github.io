@@ -4,6 +4,6 @@
 
 ## [Arithmetic Operators](./2_sql-arithmetic-operators.md) 
 
-## [Comparison Operators](./3_comparison) 
+## [Comparison Operators](./3_comparison.md) 
 
-## [Logical Operators](./4_logical) 
+## [Logical Operators](./4_logical.md) 

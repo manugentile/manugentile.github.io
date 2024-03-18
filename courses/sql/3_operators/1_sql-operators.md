@@ -32,6 +32,7 @@ single result.
 Its operators are UNION, UNION ALL, MINUS, INTERSECT.!
 
 
+
 <hr>
 
 **Let’s connect**

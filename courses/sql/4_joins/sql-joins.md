@@ -2,7 +2,7 @@
 
 ## [Inner] Join
 
-![](../../../assets/img/inner_join.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/inner_join.png)
 
 ``` sql
 SELECT *
@@ -26,7 +26,7 @@ SELECT * FROM T1 JOIN T2 USING (ID);
 
 ## Left Join
 
-![](../../../assets/img/left_join_1.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/left_join_1.png)
 
 ``` sql
 SELECT *
@@ -38,7 +38,7 @@ ON T1.ID = T2.ID;
 Specifies a join between two tables with an explicit join clause, preserving unmatched rows from T1 table.
 
 
-![](../../../assets/img/left_join_2.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/left_join_2.png)
 
 ``` sql
 SELECT *
@@ -51,7 +51,7 @@ WHERE T2.ID IS NULL;
 
 ## Right Join
 
-![](../../../assets/img/right_join_1.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/right_join_1.png)
 
 ``` sql
 SELECT *
@@ -63,7 +63,7 @@ ON T1.ID = T2.ID;
 Specifies a join between two tables with an explicit join clause, preserving unmatched rows from T2 table.
 
 
-![](../../../assets/img/right_join_2.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/right_join_2.png)
 
 ``` sql
 SELECT *
@@ -76,7 +76,7 @@ WHERE T1.ID IS NULL;
 ## Full [outer] Join
 
 
-![](../../../assets/img/full_join_1.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/full_join_1.png)
 
 ``` sql
 SELECT *
@@ -88,7 +88,7 @@ ON T1.ID = T2.ID;
 Specifies a join between two tables with an explicit join clause, preserving unmatched rows from T2 table.
 
 
-![](../../../assets/img/full_join_2.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/full_join_2.png)
 
 ``` sql
 SELECT *

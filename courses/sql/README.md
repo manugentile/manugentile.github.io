@@ -5,3 +5,5 @@
 ## [Command Types](2_command-types/README.md)
 
 ## [Operators](3_operators/README.md)
+
+## [Joins](4_joins/sql-joins.md)

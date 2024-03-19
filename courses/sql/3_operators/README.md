@@ -7,3 +7,5 @@
 ## [Comparison Operators](./3_comparison.md) 
 
 ## [Logical Operators](./4_logical.md) 
+
+## [Set Operators](./5_set.md) 

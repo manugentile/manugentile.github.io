@@ -6,7 +6,7 @@
 
 It's a programming language used for managing data kept in a RDBMS (**R**elational **D**ataBase **M**anagement **S**ystem).
 
-![](../../../assets/img/sql_course_basic_001.png)
+![](https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/sql_course_basic_001.png)
 
 Despite being an ANSI and ISO standard, each RDBMS has its own extension, Oracle has PL/SQL, PostgreSQL has PL/pgSQL, Microsoft has T-SQL, and so on.
 

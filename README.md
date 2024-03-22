@@ -2,7 +2,7 @@
     <a href="https://manugentile.github.io/">About me</a> - <a href="#courses">Courses</a>
 </p>
 
-<img src="https://github.com/manugentile/manugentile.github.io/blob/feat/about/assets/img/mg_about.jpg" alt="Manuel Gentile" style="width:300px;height:300px"/>
+<img src="https://github.com/manugentile/manugentile.github.io/blob/main/assets/img/mg_about.jpg" alt="Manuel Gentile" style="width:300px;height:300px"/>
 
 <p align="left">
 	<a href="https://www.github.com/manugentile" target="_blank" rel="noreferrer">

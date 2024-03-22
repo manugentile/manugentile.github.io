@@ -1,5 +1,5 @@
 <p align="left">
-    <a href="https://manugentile.github.io/">About me</a> - <a href="#courses">Courses</a>
+    <a href="./about/README.md">About me</a> - <a href="./courses/README.md">Courses</a>
 </p>
 
 <img src="https://github.com/manugentile/manugentile.github.io/blob/main/assets/img/mg_about.jpg" alt="Manuel Gentile" style="width:300px;height:300px"/>
@@ -24,7 +24,3 @@
     </a>
 
 </p>
-
-# Courses
-
-## [SQL Course](./courses/sql/README.md)                

@@ -1,13 +1,12 @@
 <p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
 
 
-# Types of SQL operators
 
-## Arithmetic Operators
+# Arithmetic Operators
 
 Arithmetic Performs math operation on numerical data, we can find addition, subtraction, multiplication, division and modulus.
 
-### Addition
+## Addition
 
 Performs the addition operation on numerical data. 
 
@@ -15,7 +14,7 @@ Performs the addition operation on numerical data.
 SELECT OPERAND1 + OPERAND2; 
 ```
 
-#### Addition Example
+### Addition Example
 
 ``` sql
 -- simple sum
@@ -28,7 +27,7 @@ SELECT price + 20 FROM products;
 SELECT price + tax FROM products; 
 ```
 
-### Subtraction
+## Subtraction
 
 Performs the subtraction operation on numerical data. 
 
@@ -36,7 +35,7 @@ Performs the subtraction operation on numerical data.
 SELECT OPERAND1 - OPERAND2;
 ```
 
-#### Subtraction Example
+### Subtraction Example
 
 ``` sql
 -- simple subtraction
@@ -49,7 +48,7 @@ SELECT price - 20 FROM products;
 SELECT price - tax FROM products; 
 ```
 
-### Multiplication
+## Multiplication
 
 Performs the multiplication operation on numerical data. 
 
@@ -57,7 +56,7 @@ Performs the multiplication operation on numerical data.
 SELECT OPERAND1 * OPERAND2;
 ``` 
 
-#### Multiplication Example
+### Multiplication Example
 
 ``` sql
 -- simple multiplication
@@ -71,7 +70,7 @@ SELECT price * quantity from products;
 
 ```
 
-### Division
+## Division
 
 Performs the division operation on numerical data.
 
@@ -79,7 +78,7 @@ Performs the division operation on numerical data.
 SELECT OPERAND1 / OPERAND2;
 ```
 
-#### Division Example
+### Division Example
 
 ``` sql
 -- simple division
@@ -92,7 +91,7 @@ SELECT price / 2 FROM products;
 SELECT price / quantity FROM products; 
 ```
 
-### Modulus
+## Modulus
 
 Returns the remainder of a division operation on numerical data.
 
@@ -100,7 +99,7 @@ Returns the remainder of a division operation on numerical data.
 SELECT OPERAND1 % OPERAND2;
 ```
 
-#### Modulus Example
+### Modulus Example
 
 ``` sql
 -- simple modulus, returns 1

@@ -1,7 +1,7 @@
 ﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
 
 
-# Set
+# Set Operators
 
 Combines similar type of data from tables mixing the result of queries and returning a single result.
 

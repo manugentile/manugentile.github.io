@@ -1,4 +1,7 @@
-﻿# Data Control Language
+﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/2_command-types/">Back to Command Types</a></p>
+
+
+# Data Control Language
 
 It's used for access the stored data.
 
@@ -91,6 +94,10 @@ REVOKE ALL
 ON employee
 FROM dev@localhost;
 ```
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/2_command-types/">Back to Command Types</a></p>
+
 
 
 <hr>

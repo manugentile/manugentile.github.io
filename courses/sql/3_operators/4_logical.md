@@ -1,4 +1,7 @@
-﻿# Logical
+﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
+
+
+# Logical
 
 Creates conditional expressions that returns a boolean value (TRUE or FALSE).
 
@@ -269,6 +272,8 @@ SELECT * FROM product WHERE price IS NOT NULL;
 DELETE FROM product WHERE price IS NULL;
 ```
 
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
 
 
 

@@ -1,4 +1,8 @@
-﻿# Data Manipulation Language
+﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/2_command-types/">Back to Command Types</a></p>
+
+
+
+# Data Manipulation Language
 
 It's used inserting, updating and deleting data in a DB, so we have `INSERT`, `UPDATE` and `DELETE`.
 
@@ -99,6 +103,10 @@ DELETE FROM employee
 WHERE 1 = 1
 AND (LAST_NAME = 'Doee' OR FIRST_NAME = 'Manuel');
 ```
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/2_command-types/">Back to Command Types</a></p>
+
 
 
 <hr>

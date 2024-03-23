@@ -1,4 +1,8 @@
-﻿# Data Definition Language
+﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/2_command-types/">Back to Command Types</a></p>
+
+
+
+# Data Definition Language
 
 It's used for create and modify the DB structure and its objects.
 
@@ -171,6 +175,11 @@ ALTER TABLE <tableName> RENAME TO <newTableName>;
 ```sql
 ALTER TABLE employee RENAME TO employees;
 ```
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/2_command-types/">Back to Command Types</a></p>
+
+
 
 
 <hr>

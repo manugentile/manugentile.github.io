@@ -1,4 +1,7 @@
-﻿# Comparison
+﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
+
+
+# Comparison
 
 Compares two different data returning a boolean value (TRUE or FALSE), checking if equal, greater or lesser.
 
@@ -164,6 +167,10 @@ SELECT * FROM employee WHERE age <= 18;
 -- Condition between two columns of a table
 SELECT * FROM products WHERE max_value <= min_value;
 ```
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
+
 
 
 <hr>

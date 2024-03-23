@@ -1,3 +1,6 @@
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
+
+
 # What’s a SQL operator?
 
 An operator in SQL is a character / word used in statements like SELECT, INSERT, UPDATE, DELETE on WHERE or HAVING clauses.
@@ -30,6 +33,10 @@ Set Combines similar type of data from tables mixing the result of queries and r
 single result.
 
 Its operators are UNION, UNION ALL, MINUS, INTERSECT.!
+
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
 
 
 

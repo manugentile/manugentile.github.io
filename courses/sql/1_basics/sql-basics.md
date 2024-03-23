@@ -1,4 +1,8 @@
-﻿# What's SQL and what's used for?
+﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a></p>
+
+
+
+# What's SQL and what's used for?
 
 
 
@@ -31,6 +35,11 @@ Commands are `GRANT` and `REVOKE`
 ## Transaction Control Language
 
 TCL It's used for handling the transaction, its commands are `COMMIT` and `ROLLBACK`.
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a></p>
+
+
 
 # Credits
 

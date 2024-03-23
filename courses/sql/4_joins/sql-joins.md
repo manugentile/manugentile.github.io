@@ -1,3 +1,6 @@
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a></p>
+
+
 # Joins
 
 ## [Inner] Join
@@ -97,6 +100,10 @@ FULL [OUTER] JOIN T2
 ON T1.ID = T2.ID
 WHERE T1.ID IS NULL OR T2.ID IS NULL;
 ```
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a></p>
+
 
 
 <hr>

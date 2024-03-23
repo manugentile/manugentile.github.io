@@ -1,3 +1,6 @@
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
+
+
 # Types of SQL operators
 
 ## Arithmetic Operators
@@ -109,6 +112,10 @@ SELECT price % 2 FROM products;
 -- modulus between two columns of a table
 SELECT price % tax FROM products; 
 ```
+
+
+<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
+
 
 
 <hr>

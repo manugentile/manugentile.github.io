@@ -1,7 +1,7 @@
 ﻿<p align="right"><a href="https://manugentile.github.io/courses/sql/">Back to SQL Course</a> - <a href="https://manugentile.github.io/courses/sql/3_operators/">Back to Operators</a></p>
 
 
-# Comparison
+# Comparison Operators
 
 Compares two different data returning a boolean value (TRUE or FALSE), checking if equal, greater or lesser.
 

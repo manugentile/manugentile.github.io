@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Manuel
+Hi 👋 I'm Manuel
 ==============================================================================================================================
 
 <img src="https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/mg_about.jpg" alt="Manuel Gentile" style="width:300px;height:300px"/>
 
-* :earth_africa: I'm based in Turin, :it:
-* :briefcase: SQL lover • Back-end dev • Senior Software Engineer @ OverIT
-* :open_book: Language enthusiast • Italian, English, Spanish, Portuguese, Chinese, Japanese, French
-* :zap: Multipotential • Impro & Theater :performing_arts:
-* :t-rex: 3x cats
-* :video_game: PS • Anime • Movies & TV series
-* :pizza: Food • Travel • Books
-* :handshake: I'm open to collaborating on open source projects
+* 🌍 I'm based in Turin, 🇮🇹
+* 💼 SQL lover • Back-end dev • Senior Software Engineer @ OverIT
+* 📖 Language enthusiast • Italian, English, Spanish, Portuguese, Chinese, Japanese, French
+* ⚡ Multipotential • Impro & Theater 🎭
+* 🦖 3x cats
+* 🎮 PS Gamer • Anime • Movies & TV series
+* 🍕 Food • Travel • Books
+* 🤝 I'm open to collaborating on open source projects
 
 ### Tech Skills
 

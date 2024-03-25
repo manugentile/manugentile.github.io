@@ -7,3 +7,5 @@
 ## [Operators](3_operators/README.md)
 
 ## [Joins](4_joins/sql-joins.md)
+
+## [Data Types](5_data-types/README.md)

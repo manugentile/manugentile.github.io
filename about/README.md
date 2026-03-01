@@ -4,7 +4,7 @@ Hi 👋 I'm Manuel
 <img src="https://raw.githubusercontent.com/manugentile/manugentile.github.io/main/assets/img/mg_about.jpg" alt="Manuel Gentile" style="width:300px;height:300px"/>
 
 * 🌍 I'm based in Turin, 🇮🇹
-* 💼 SQL lover • Back-end dev • Senior Software Engineer @ OverIT
+* 💼 SQL lover • Back-end dev • Senior Data Architect @ ZeroB
 * 📖 Language enthusiast • Italian, English, Spanish, Portuguese, Chinese, Japanese, French
 * ⚡ Multipotential • Impro & Theater 🎭
 * 🦖 3x cats
